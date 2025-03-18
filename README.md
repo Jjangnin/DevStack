@@ -1,3 +1,7 @@
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=INSEO'S%20GITHUB&fontSize=90&animation=fadeIn&fontAlignY=38"/>
+</p>
+
 # Jang-inseo
 
 ### Platforms & Languages
