@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=INSEO'S%20GITHUB&fontSize=90&animation=fadeIn&fontAlignY=38"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=janginseo95&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
 # 👋 Jang Inseo
 
 > **AI & Deep Learning Developer**
@@ -53,6 +57,15 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=janginseo95&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janginseo95&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
