@@ -56,6 +56,6 @@
 
 ---
 
-## 📫 Contact
+## Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:janginseo95@gmail.com)
